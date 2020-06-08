@@ -1,0 +1,8 @@
+{
+  "urlRandomness": "23-hwm",
+  "hostType": "lan",
+  "lanType": "ip",
+  "dev": true,
+  "minify": false,
+  "https": true
+}
